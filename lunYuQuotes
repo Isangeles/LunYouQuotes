@@ -1,0 +1,31 @@
+#!/bin/bash
+
+lineCounter=0
+amountOfVerses=0
+
+while read line
+do
+	if [ -z "$line" ]
+	then
+		amountOfVerses=`expr $amountOfVerses + 1`
+	fi
+done < $HOME/lunYuQuotes/LunYu-verse-pl.txt
+
+reqLine=$(( $RANDOM % $amountOfVerses + 1 ))
+
+while read line
+do
+	if [ -z "$line" ]
+	then
+		lineCounter=`expr $lineCounter + 1`
+		if [ $lineCounter = $reqLine ]
+		then
+			break
+		fi
+		verse=""
+	fi
+	verse="$verse$line"
+	verse="$verse\n"
+done < $HOME/lunYuQuotes/LunYu-verse-pl.txt
+
+echo -e $verse
