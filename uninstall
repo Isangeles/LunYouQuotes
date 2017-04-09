@@ -1,3 +1,4 @@
 #!/bin/bash
 rm ~/bin/lunYuQuotes
-rm -rf ~/lunYuQuotes
+rm ~/lunYuQuotes/LunYu-verses-pl.txt
+rmdir ~/lunYuQuotes
