@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir --mode=777 ~/bin
+mkdir --mode=755 ~/bin
 cp -p lunYuQuotes ~/bin
-mkdir --mode=777 ~/lunYuQuotes
+mkdir --mode=755 ~/lunYuQuotes
 cp -pu LunYu-verses-pl.txt ~/lunYuQuotes
