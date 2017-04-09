@@ -1,4 +1,5 @@
 #!/bin/bash
-cp lunYuQuotes ~/bin
-mkdir --mode=777 $HOME/lunYuQuotes
-cp -p LunYu-verses-pl.txt $HOME/lunYuQuotes
+mkdir --mode=777 ~/bin
+cp -p lunYuQuotes ~/bin
+mkdir --mode=777 ~/lunYuQuotes
+cp -pu LunYu-verses-pl.txt ~/lunYuQuotes

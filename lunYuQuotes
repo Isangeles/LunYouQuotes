@@ -9,7 +9,7 @@ do
 	then
 		amountOfVerses=`expr $amountOfVerses + 1`
 	fi
-done < $HOME/lunYuQuotes/LunYu-verse-pl.txt
+done < $HOME/lunYuQuotes/LunYu-verses-pl.txt
 
 reqLine=$(( $RANDOM % $amountOfVerses + 1 ))
 
@@ -26,6 +26,6 @@ do
 	fi
 	verse="$verse$line"
 	verse="$verse\n"
-done < $HOME/lunYuQuotes/LunYu-verse-pl.txt
+done < $HOME/lunYuQuotes/LunYu-verses-pl.txt
 
 echo -e $verse

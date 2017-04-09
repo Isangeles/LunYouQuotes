@@ -1,14 +1,14 @@
 1. INTRODUCTION
 LunYu Quotes is simple bash script that provide you one random quote from Lun Yu(Analects of Confucius) after call it from your linux bash 
-For now quotes in polish translation (by Jaroslaw Zawadzki, tlumacz-chinskiego.pl) only.
+For now quotes only in polish translation (by Jaroslaw Zawadzki, tlumacz-chinskiego.pl).
 
 2. INSTALLATION 
 Run:
-sudo ./install
+./install
 
 3. RUN
 To run script simple type "lunYuQuotes" in your bash
 
 4. UINSTALLATION
 Run:
-sudo ./uninstall
+./uninstall
