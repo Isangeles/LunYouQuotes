@@ -34,7 +34,7 @@ do
 	-lq | --listq) 	while read line
 					do
 					echo "$line"
-					done < qBasePath
+					done < $qBasePath
 					exit;;
 	
 	-s | --set) 	shift
