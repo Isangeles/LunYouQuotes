@@ -12,6 +12,12 @@ Run:
 3. USAGE
 To run script simple type "lyq" in your bash
 
+Command options:
+--list lang, -ll                -to list supported languages
+--list quotes, -lq              -to list all verses for current language
+--quote, -q [verse number]      -to print verse of the selected number 
+--set lang, -sl [language]      -to change language(only english and polish supported)
+
 4. UNINSTALLATION
 Run:
 ./uninstall
