@@ -1,6 +1,61 @@
 #!/bin/bash
 
-lineCounter=0
+langFilePath="$HOME/lunYuQuotes/lang"
+lang=$(<$langFilePath)
+qBasePath="$HOME/lunYuQuotes/LunYu-verses-$lang.txt"
+reqVerse=0
+
+#Arguments check
+while [ "$1" != "" ];
+do
+	case $1 in
+	-q | --quote)	shift
+					if [ "$reqVers" != "" ]
+					then
+						reqVerse="$1"
+					else
+						reqVerse=0
+					fi
+					break;;
+					
+	-l | --list)    shift
+					if [ "$1" == "quotes" ]
+					then
+					$1="-lq"
+					fi
+					if [ "$1" == "lang" ]
+					then
+					$1="-ll"
+					fi;;
+					
+	-ll | --listl)  echo -e "Supported languages:\nPolish - pl\nEnglish - en"
+					exit;;
+					
+	-lq | --listq) 	while read line
+					do
+					echo "$line"
+					done < qBasePath
+					exit;;
+	
+	-s | --set) 	shift
+					if [ "$1" = "lang" ]
+					then
+					$1="-sl"
+					fi;;
+	
+	-sl | --setl)	shift
+					case $1 in
+					pl | pol | polish)   echo "pl" > $langFilePath;;
+					en | eng | english)  echo "en" > $langFilePath;;
+					esac
+					exit;;
+	
+	*)				echo "lyq: invalid option $1"
+					exit 1;;
+	esac
+done
+
+#Counts verses
 amountOfVerses=0
 
 while read line
@@ -9,16 +64,29 @@ do
 	then
 		amountOfVerses=`expr $amountOfVerses + 1`
 	fi
-done < $HOME/lunYuQuotes/LunYu-verses-pl.txt
+done < $qBasePath
 
-reqLine=$(( $RANDOM % $amountOfVerses + 1 ))
+#Checks if quotes base contains verses 
+if [ $amountOfVerses = 0 ]
+then
+	echo "lyq: $qBasePath is empty !"
+	exit 0
+fi
 
+#Generates random verse number
+if [ $reqVerse = 0 ]
+then
+	reqVerse=$(( $RANDOM % $amountOfVerses + 1 ))
+fi
+
+#Serches file for requested verse
+lineCounter=0
 while read line
 do
 	if [ -z "$line" ]
 	then
 		lineCounter=`expr $lineCounter + 1`
-		if [ $lineCounter = $reqLine ]
+		if [ $lineCounter = $reqVerse ]
 		then
 			break
 		fi
@@ -26,6 +94,7 @@ do
 	fi
 	verse="$verse$line"
 	verse="$verse\n"
-done < $HOME/lunYuQuotes/LunYu-verses-pl.txt
+done < $qBasePath
 
+#Prints verse
 echo -e $verse
