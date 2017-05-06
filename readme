@@ -2,8 +2,8 @@
 LunYuQuotes is simple bash script that provide you one random quote from Lun Yu(Analects of Confucius) after call it from your linux bash 
 
 Available translations:
-*polish by Jaroslaw Zawadzki(tlumacz-chinskiego.pl).
-*english by Confucius Publishing Co. Ltd.(confucius.org)
+*Polish by Jaroslaw Zawadzki(tlumacz-chinskiego.pl).
+*English by Confucius Publishing Co. Ltd.(confucius.org)
 
 Default quotes base contains specific quotes that are my personal selection. 
 
