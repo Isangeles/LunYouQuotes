@@ -90,6 +90,8 @@ do
 		then
 			break
 		fi
+		
+		
 		verse=""
 	fi
 	verse="$verse$line"
