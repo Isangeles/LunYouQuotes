@@ -1,4 +1,4 @@
-(...)Kto choć nie zaznał zaszczytów i sławy, 
+﻿(...)Kto choć nie zaznał zaszczytów i sławy, 
 Gniewem nie pała – ten jest człowiek prawy.
 * 1.1
 * Konfucjusz
@@ -19,9 +19,45 @@ Słuszność go wiedzie – w niej istota rzeczy
 * 4.10
 * Konfucjusz
 
+Człek prawy cnotę w swoim sercu  gości,
+Człek marny pragnie tylko posiadłości.
+Człek prawy zawsze w zgodzie z prawem żyje, 
+Człek marny patrzy, gdzie się korzyść kryje.
+* 4.11
+* Konfucjusz
+
+Jeśli ktoś tylko dla profitu działa, 
+To ludzkość słusznie takim gardzi cała.
+* 4.12
+* Konfucjusz
+
+Jeśli posady nie otrzymał człowiek, 
+Niech mu to jeszcze snu nie spędza z powiek, 
+Jego zmartwieniem niech lepiej się stanie, 
+Co trzeba zrobić, by zyskać uznanie.
+* 4.14
+* Konfucjusz
+
+Człek prawy żywot wiedzie prawowity;
+Człek marny wie, jak wyciągnąć profity.
+* 4.16
+* Konfucjusz
+
 W mowie ostrożny jest zawsze człek prawy,
 W działaniu za to niezwłoczny i żwawy.
 * 4.24
+* Konfucjusz
+
+„Z łuku nie trzeba strzałą przebić tarczy.” 
+Bo nie każdemu przecież sił wystarczy. 
+Chodzi wszak o to, by trafić do celu. 
+Oto zasada sprzed stuleci wielu.
+* 3.17
+* Konfucjusz
+
+(...)W radości swojej nie bądź wyuzdany; 
+A gdy się smucisz, nie rozdrapuj rany.
+* 3.20
 * Konfucjusz
 
 W tym człowiek prawy nigdy nie ustaje,
@@ -39,7 +75,7 @@ Wstyd być bogatym albo na urzędzie.
 Gdy jakaś sprawa nie w twej leży gestii,
 To nie myśl o niej i nie podnoś kwestii.
 * 8.14 i 14.28
-*Konfucjusz
+* Konfucjusz
 
 Są  takie  pędy,  które  chociaż rosną, 
 To próżno  szukać  na  nich  kwiatów wiosną.
@@ -95,7 +131,7 @@ I do  rozboju  nie  przyłożysz  dłoni.
 * 12.18
 * Konfucjusz
 
-(...)Człek prawy to wiatr jest, a człek marny trawa, 
+(...)Człek prawy to wiatr jest, a człek marny trawa,
 Co się ugina na wietrze krępawa.
 * 12.19
 * Konfucjusz
@@ -126,34 +162,34 @@ Choćby  to  byli  barbarzyńcy  prości.
 * 13.19
 * Konfucjusz
 
-Człek  prawy  z  każdym  umie  żyć  w  przyjaźni, 
+Człek  prawy  z  każdym  umie  żyć  w  przyjaźni,
 Lecz owczym  pędem  się  nigdy  nie  błaźni. 
 Człek  marny  ślepo  tylko  pędzi  z  tłumem, 
 Choć  się  nie  zgadza  sercem  ni  rozumem.
 * 13.23
 * Konfucjusz
 
-Gdy człowiek  prawy  do  pracy  się  bierze, 
-Pracuje  chętnie,  z  łatwością  i szczerze. 
-Gdy ma się  bawić  i cieszyć,  to  w  sumie 
-Jakoś  nie  bardzo  się  za  to  wziąć  umie. 
-Jeśli  rozrywkę  mu  ludzie  nieprawi 
-Niecną  podsuną,  ten  się  nie  rozbawi. 
-Zanim od  ludzi  czegoś  żądać  zacznie, 
-Wpierw możliwościom  przygląda  się  bacznie. 
-Gdy zaś  człek  marny  do  pracy  się  bierze, 
-Pracuje  wolno,  sennie  i nieszczerze. 
-I choć  rozrywkę  mu  ludzie  nieprawi 
-Niecną  podsuną,  setnie  się  ubawi. 
-Możności  się  też oceną  nie  trudzi 
-I cudów  nieraz wymaga  od  ludzi.
+Gdy człowiek prawy do pracy się bierze, 
+Pracuje chętnie, z łatwością i szczerze. 
+Gdy ma się bawić i cieszyć, to w sumie 
+Jakoś nie bardzo się za to wziąć umie. 
+Jeśli rozrywkę mu ludzie nieprawi 
+Niecną podsuną, ten się nie rozbawi. 
+Zanim od ludzi czegoś żądać zacznie, 
+Wpierw możliwościom przygląda się bacznie. 
+Gdy zaś człek marny do pracy się bierze,
+Pracuje wolno, sennie i nieszczerze. 
+I choć rozrywkę mu ludzie nieprawi 
+Niecną podsuną, setnie się ubawi. 
+Możności się też oceną nie trudzi 
+I cudów nieraz wymaga od ludzi.
 * 13.25
 * Konfucjusz
 
-Zdarza  się  czasem,  że  i człowiek  prawy 
-Niezbyt  życzliwie  podejdzie  do  sprawy. 
-Lecz by  człek  marny  był  kiedy  życzliwy, 
-To nie  widziałem  jeszcze,  jakem  żywy.
+Zdarza się czasem, że i człowiek prawy 
+Niezbyt życzliwie podejdzie do sprawy. 
+Lecz by człek marny był kiedy życzliwy, 
+To nie widziałem jeszcze, jakem żywy.
 * 14.7
 * Konfucjusz
 
@@ -176,7 +212,7 @@ By spoza  swego  zakresu  brać  sprawy.
 * 14.27
 * Zeng Shen
 
-Człek  prawy  bardzo  nieśmiały  jest  w  mowie, 
+Człek  prawy  bardzo  nieśmiały  jest  w  mowie,
 Ale  wykona  więcej  niźli  powie.
 * 14.29
 * Konfucjusz
@@ -202,7 +238,7 @@ Język  szanuje,  z  kim  mówić  uważa.
 * 15.7
 * Konfucjusz
 
-Gdy nie  planuje  ktoś  w  długim  okresie, 
+Gdy nie  planuje  ktoś  w  długim  okresie,
 Strapienie  przyszłość  mu  bliska  przyniesie.
 * 15.11
 * Konfucjusz
@@ -229,7 +265,7 @@ To jedną  drogą  nie  dacie  iść  rady.
 * 15.39
 * Konfucjusz
 
-(...)Bo kiedy  słuszną  podąża  świat  drogą, 
+(...)Bo kiedy  słuszną  podąża  świat  drogą,
 Rozkazów  możni  wydawać  nie  mogą.
 Bo gdy  świat  drogą  podąża  prawości, 
 Nie  dyskutują  o  tym  ludzie  prości.
@@ -244,7 +280,7 @@ Ten  przyjacielem  nie  jest  należytym.
 * Konfucjusz
 
 Dobre rzec  słowo,  kiedy  jest  okazja;
-Zacnych  przyjaciół  towarzystwo  –  oto 
+Zacnych  przyjaciół  towarzystwo  –  oto
 Zamiłowania  szlachetne  jak  złoto. 
 Szelmowski ubaw;  dzikie  eskapady; 
 Oraz wystawne  wieczorne  obiady  – 
@@ -253,22 +289,23 @@ Z  których  się  obraz koszmarny  wyłania.
 * 16.6
 * Konfucjusz
 
-Znam ja  trzy  kwestie,  które  zawsze  mogą 
-Człeka  prawego  wielką  przejąć  trwogą: 
+Znam ja  trzy  kwestie,  które  zawsze  mogą
+Człeka  prawego  wielką  przejąć  trwogą:
 Pierwszą  z  tych  kwestii  są  rozkazy  Nieba, 
 Na twarz  upadać  przed  nimi  mu  trzeba; 
 Drugą  zaś  kwestią  są  wielkie  postaci, 
 Podziwu dla  nich  on  nigdy  nie  traci; 
-A trzecią  kwestią  świętych  mędrców  słowa, 
+A trzecią  kwestią  świętych  mędrców  słowa,
 Których  jest  pełna  zawsze  jego  głowa. 
 Człek  marny  nie  zna  zaś  rozkazów  
-Nieba I nie  wie,  że  im  składać  hołd  potrzeba. 
+Nieba I nie  wie,  że  im  składać  hołd  potrzeba.
 Drwi  z  wielkich  osób  i gardzi  słowami, 
 Co święci  mędrcy  przekazali  sami.
 * 16.8
 * Konfucjusz
 
-(...)„W samotni  spełniać  swoje  aspiracje. Uczciwie  swoje  udowodnić  racje.”(...)
+(...)„W samotni  spełniać  swoje  aspiracje.
+Uczciwie  swoje  udowodnić  racje.”(...)
 * 16.11
 * Konfucjusz
 
@@ -291,25 +328,26 @@ Co do  nich  mówią  te  przepastne Nieba?
 * 17.19
 * Konfucjusz
 
+
 Nie  łatwo  wcale  być  sytym  dzień  cały 
 I żadne  troski by  nie  doskwierały. 
-Wszak  granie  w  szachy  albo  nawet  w  kości 
+Wszak  granie  w  szachy  albo  nawet  w  kości
 Lepsze  od  takiej  będzie  bezczynności.
 * 17.22
 * Konfucjusz
 
-Nie  cierpię,  gdy  się  łutem  szczęścia  chlubi 
-Ktoś  jak  mądrością; gdy  ktoś  się  wspomaga 
+Nie  cierpię,  gdy  się  łutem  szczęścia  chlubi
+Ktoś  jak  mądrością;  gdy  ktoś  się  wspomaga
 Chamstwem i myśli,  że  to  jest  odwaga; 
 W nieswoje  sprawy  kiedy  ktoś  się  wtrąca,
 Bo myśli,  że  to  wylewność  krzepiąca.
 * 17.24
 * Duanmu Ci
 
-Człek  prawy  zacnych  szacunkiem  swym  darzy 
-I dla  każdego  ma  uśmiech  na  twarzy. 
-Dla  ludzi  dobrych  wielkie  ma  uznanie. 
-Współczuje,  gdy  kto  bezradnym  się  stanie.
+„Człek  prawy  zacnych  szacunkiem  swym  darzy
+I dla  każdego  ma  uśmiech  na  twarzy.
+Dla  ludzi  dobrych  wielkie  ma  uznanie.
+Współczuje,  gdy  kto  bezradnym  się  stanie.”
 * 19.3
 * Zhuansun Shi
 
@@ -317,19 +355,6 @@ Kto  w  wielkiej  sprawie  cnotliwy  i czujny,
 Ten  w  małych  sprawach  może  być  niechlujny.
 * 19.11
 * Bu Shang
-
-(...)Wszak  niczym  w  bajorze, 
-Które  to  leży  w  dolnym  biegu  rzeki, 
-Z  całego  świata  gromadzą  się  ścieki; 
-Tak  też i  niema  pod  Niebem  podłości, 
-Co sobie  miejsca  u  władcy  nie  mości.
-* 19.20
-* Duanmu Ci
-
-Człek  prawy  błądzi,  ale  nie  bez końca; 
-Niczym zaćmienia  księżyca  czy  słońca(...)
-* 19.21
-* Duanmu Ci
 
 (...)Wszak  niczym  w  bajorze, 
 Które  to  leży  w  dolnym  biegu  rzeki, 
@@ -378,4 +403,3 @@ Głęboką  rzekę  w  ubraniu  przepłynę;
 Bród  przekraczając,  odzienie  podwinę.
 * Księga pieśni
 * „W tykwie  liść  gorzki”
-
