@@ -19,7 +19,7 @@ Run:
 ./install
 ```
 ## USAGE
-To run script simple type:
+To run script simply type:
 
 ```
 lyq
