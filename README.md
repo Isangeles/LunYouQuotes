@@ -1,33 +1,48 @@
 ## INTRODUCTION
-LunYuQuotes is simple bash script that displays one random quote from Lun Yu(Analects of Confucius) after call it from your linux bash
+LunYuQuotes is simple bash script that displays one random quote from Lun Yu(Analects of Confucius) in your bash.
 
 ![gf1](/lyq_preview.gif)
 
-  Available translations:
-  *Polish by Jaroslaw Zawadzki(tlumacz-chinskiego.pl).
-  *English by Confucius Publishing Co. Ltd.(confucius.org)
+Available translations:
+  
+*Polish by Jaroslaw Zawadzki(tlumacz-chinskiego.pl).
+  
+*English by Confucius Publishing Co. Ltd.(confucius.org)
+  
 
-  Default quotes base contains specific quotes that are my personal selection. 
+Default quotes base contains specific quotes that are my personal selection. 
 
 ## INSTALLATION 
-  Run:
-  ./install
+Run:
 
+```
+./install
+```
 ## USAGE
-  To run script simple type "lyq" in your bash.
+To run script simple type:
 
-  If command does not work try to relog.
+```
+lyq
+```
 
-  Command options:
-  --list lang, -ll                -to list supported languages
-  --list quotes, -lq              -to list all verses for current language
-  --quote, -q [verse number]      -to print verse of the selected number 
-  --set lang, -sl [language]      -to change language(only english and polish supported)
+If command does not work try to relog.
+
+Command options:
+
+--list lang, -ll &nbsp;&nbsp;&nbsp;-to list supported languages
+
+--list quotes, -lq &nbsp;&nbsp;&nbsp;-to list all verses for current language
+
+--quote, -q [verse number] &nbsp;&nbsp;&nbsp;-to print verse of the selected number 
+
+--set lang, -sl [language] &nbsp;&nbsp;&nbsp;-to change language(only english and polish supported)
 
 ## UNINSTALLATION
-  Run:
-  ./uninstall
+Run:
 
+```
+./uninstall
+```
 ## LICENSE
 Copyright (c) 2017-2018 Dariusz Sikora <<dev@isangeles.pl>>
 
