@@ -1,6 +1,6 @@
 #!/bin/bash
 rm ~/bin/lyq
-rm ~/lunYuQuotes/LunYu-verses-pl.txt
-rm ~/lunYuQuotes/LunYu-verses-en.txt
+rm ~/lunYuQuotes/base-pl.txt
+rm ~/lunYuQuotes/base-en.txt
 rm ~/lunYuQuotes/lang
 rmdir ~/lunYuQuotes

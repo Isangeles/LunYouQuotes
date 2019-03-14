@@ -6,8 +6,8 @@ fi
 cp -p lyq ~/bin
 mkdir --mode=755 ~/lunYuQuotes
 cp -pu lang ~/lunYuQuotes
-cp -pu LunYu-verses-pl.txt ~/lunYuQuotes
-cp -pu LunYu-verses-en.txt ~/lunYuQuotes
+cp -pu base-pl.txt ~/lunYuQuotes
+cp -pu base-en.txt ~/lunYuQuotes
 #Checks if user home bin is in system PATH 
 if [[ $PATH != ?(*:)$HOME/bin?(:*) ]]
 then

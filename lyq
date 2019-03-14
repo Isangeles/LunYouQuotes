@@ -2,7 +2,7 @@
 
 langFilePath="$HOME/lunYuQuotes/lang"
 lang=$(<$langFilePath)
-qBasePath="$HOME/lunYuQuotes/LunYu-verses-$lang.txt"
+qBasePath="$HOME/lunYuQuotes/base-$lang.txt"
 reqVerse=0
 
 #Arguments check

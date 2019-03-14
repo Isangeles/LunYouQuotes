@@ -1,5 +1,5 @@
-## INTRODUCTION
-LunYuQuotes is simple bash script that displays one random quote from Lun Yu(Analects of Confucius) in your bash.
+## Introduction
+lyq(Lun Yu Quotes) is simple bash script that displays one random quote from Lun Yu(Analects of Confucius) in your bash.
 
 ![gf1](/lyq_preview.gif)
 
@@ -12,37 +12,46 @@ Available translations:
 
 Default quotes base contains specific quotes that are my personal selection. 
 
-## INSTALLATION 
-Run:
+## Installation 
+run:
 
 ```
 ./install
 ```
-## USAGE
-To run script simply type:
+
+## Usage
+to run script simply type:
 
 ```
-lyq
+$ lyq
 ```
 
-If command does not work try to relog.
+if command does not work try to relog.
 
-Command options:
+### Command options:
+```
+$ lyq -ll
+```
+Description: Lists all supported languages.
+```
+$ lyq -lq
+```
+Description: Lists all verses for current language.
+```
+$ lyq -q [verse number]
+```
+Description: Prints verse of the selected number.
+```
+$ lyq -sl [language]
+```
+Description: Changes language(only english and polish supported).
 
---list lang, -ll &nbsp;&nbsp;&nbsp;-to list supported languages
-
---list quotes, -lq &nbsp;&nbsp;&nbsp;-to list all verses for current language
-
---quote, -q [verse number] &nbsp;&nbsp;&nbsp;-to print verse of the selected number 
-
---set lang, -sl [language] &nbsp;&nbsp;&nbsp;-to change language(only english and polish supported)
-
-## UNINSTALLATION
+## Remove
 Run:
-
 ```
 ./uninstall
 ```
+
 ## LICENSE
 Copyright (c) 2017-2018 Dariusz Sikora <<dev@isangeles.pl>>
 
