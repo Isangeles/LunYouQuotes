@@ -1,8 +1,8 @@
 #!/bin/bash
 
-langFilePath="$HOME/lunYuQuotes/lang"
+langFilePath="$HOME/lyq/lang"
 lang=$(<$langFilePath)
-qBasePath="$HOME/lunYuQuotes/base-$lang.txt"
+qBasePath="$HOME/lyq/base-$lang.txt"
 reqVerse=0
 
 #Arguments check

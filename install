@@ -4,11 +4,11 @@ then
 	mkdir --mode=755 ~/bin
 fi
 cp -p lyq ~/bin
-mkdir --mode=755 ~/lunYuQuotes
-cp -pu lang ~/lunYuQuotes
-cp -pu base-pl.txt ~/lunYuQuotes
-cp -pu base-en.txt ~/lunYuQuotes
-#Checks if user home bin is in system PATH 
+mkdir --mode=755 ~/lyq
+cp -pu lang ~/lyq
+cp -pu base-pl.txt ~/lyq
+cp -pu base-en.txt ~/lyq
+# Checks if user home bin is in system PATH.
 if [[ $PATH != ?(*:)$HOME/bin?(:*) ]]
 then
 	echo 'export PATH=$PATH:~/bin' >> ~/.bashrc
