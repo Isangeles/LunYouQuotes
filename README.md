@@ -3,30 +3,30 @@ lyq(Lun Yu Quotes) is simple bash script that displays one random quote from Lun
 
 ![gf1](/lyq_preview.gif)
 
-Available translations:
+### Available translations:
   
-*Polish by Jaroslaw Zawadzki(tlumacz-chinskiego.pl).
+* Polish by Jaroslaw Zawadzki(tlumacz-chinskiego.pl).
   
-*English by Confucius Publishing Co. Ltd.(confucius.org)
+* English by Confucius Publishing Co. Ltd.(confucius.org)
   
-
-Default quotes base contains specific quotes that are my personal selection. 
+Quotes are stored in language-specific text files with name in format: 'base-[lang].txt', e.g. 'base-en.txt'.
+By default these files contains specific quotes that are my personal selection. 
 
 ## Installation 
-run:
+Run:
 
 ```
 ./install
 ```
 
 ## Usage
-to run script simply type:
+To run script simply type:
 
 ```
 $ lyq
 ```
 
-if command does not work try to relog.
+If command does not work try to relog.
 
 ### Command options:
 ```
