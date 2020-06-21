@@ -1,7 +1,7 @@
 ## Introduction
-lyq(Lun Yu Quotes) is simple bash script that displays one random quote from Lun Yu(Analects of Confucius) in your bash.
+lyq(Lun Yu Quotes) is simple Bash script that displays one random quote from Lun Yu(Analects of Confucius) in your Bash.
 
-![gf1](/lyq_preview.gif)
+![gf1](/preview.gif)
 
 ### Available translations:
   
@@ -53,7 +53,7 @@ Run:
 ```
 
 ## License
-Copyright (c) 2017-2019 Dariusz Sikora <<dev@isangeles.pl>>
+Copyright (c) 2017-2020 Dariusz Sikora <<dev@isangeles.pl>>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
